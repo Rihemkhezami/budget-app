@@ -1,0 +1,30 @@
+
+.users-container {
+    display: flex;
+  }
+  
+  .users-content {
+    flex: 1;
+    background-color: #f4f4f9;
+    height: 82vh; 
+    margin:10px
+
+  }
+
+  .users-content h1 {
+text-align: center;
+  }
+
+  .icon-delete{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    font-size: 30px;
+  }
+
+  .icon-update{
+    background-color:darkgreen;
+    color: white;
+    border-radius: 20px;
+    font-size: 30px;
+  }

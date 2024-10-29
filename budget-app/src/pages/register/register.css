@@ -1,0 +1,39 @@
+.register-page {
+    display: flex;
+    justify-content: center; 
+    align-items: center ;
+    height:90vh ;
+    text-align:center;
+    color:black;
+}
+
+.register-container{
+    width:500px ;
+    margin-top:85px;
+}
+
+.register-container img{
+   display: 'block';
+    margin: '15px auto 0' ;
+}
+
+.register-container h1{
+   color:black;
+}
+
+.register-input {
+    font-size:27px ;
+
+}
+
+.register-icon {
+    padding-top:15px;
+    padding-bottom:5px;
+}
+
+.register-button {
+    color:white;
+    width:250px;
+    height:50px;
+    margin-top:30px;
+}

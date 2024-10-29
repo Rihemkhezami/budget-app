@@ -1,0 +1,78 @@
+.home-container h1{
+    text-align:center
+}
+
+.card-add-budget {
+    padding:15px;
+    align-items:center;
+    text-align: center;
+}
+
+.button-add-budget {
+text-align:center;
+padding:15px;
+align-items:center;
+
+}
+
+.card-overview {
+    height:300px;
+    padding:15px;
+}
+
+.card-overview-title{
+display:flex;
+justify-content:center;
+}
+
+.icon-overview{
+    width: 60px;
+    font-size: xxx-large;
+}
+
+.card-overview-content {
+    margin:5px ;
+    display:grid ;
+     row-gap: 50px;
+}
+
+.card-overview-content div {
+    display:flex;
+}
+
+.icon-item {
+    width: 60px;
+    font-size: xx-large ;
+}
+
+.card-financial-insights h2{
+    font-size:xx-large ;
+    text-align:center;
+}
+
+.card-financial-insights .icon-title{
+    width: 40px;
+}
+
+.icon-subtitle {
+    width: 20px ;
+    font-size: small;
+}
+
+.card-usage-tips {
+    margin-top:-60px ;
+}
+
+.card-usage-tips-title {
+display:flex;
+}
+
+.icon-usage-tips {
+    width: 60px ;
+    font-size: xxx-large ;
+    color:#be2c00 ;
+}
+
+.title-usage-tips {
+    padding-top:'10px'
+}

@@ -1,0 +1,58 @@
+.budget-categories-container {
+    display: flex;
+  }
+  
+  .budget-categories-content {
+    flex: 1;
+    background-color: #f4f4f9;
+    height: 82vh; 
+    margin:10px
+
+  }
+
+.budget-categories-content h1{
+    text-align: center;
+}
+
+.budget-category-item {
+    width: 180px ;
+    padding: 5px ;
+}
+
+.category-item-content{
+    display:flex ;
+    padding:5px ;
+}
+
+.category-item-icon {
+    width: 60px ;
+    font-size: xxx-large ;
+}
+
+.add-category-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.add-category-section h1{
+   text-align: center;
+}
+
+.button-add-category{
+    height: 50px;
+    
+}
+
+.update-button{
+    color: #418d46;
+    font-size: x-large;
+}
+
+.delete-button{
+    color: darkred;
+    font-size: x-large;
+
+}
+
+
